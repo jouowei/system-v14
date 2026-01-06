@@ -1,0 +1,7 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+config/service_account.json
+tools/__pycache__/
